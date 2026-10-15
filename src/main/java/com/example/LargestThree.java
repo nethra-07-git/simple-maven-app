@@ -17,7 +17,7 @@ public class LargestThree {
         LargestThree obj = new LargestThree();
 
         System.out.println(
-            "Largest number: " + obj.findLargest(10, 25, 15)
+            "Largest number: " + obj.findLargest(1.0, 25, 15)
         );
     }
 }
